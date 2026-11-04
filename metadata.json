@@ -1,0 +1,6 @@
+{
+  "name": "British Board UK - Accréditation & Certifications",
+  "description": "Official presentation portal for the British Board for Training and Consulting: certificate verification, professional certification programs, news dispatches, and institutional accreditation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
